@@ -1,6 +1,6 @@
 # Atlanta in 1874
 
-An overlay of a map of Atlanta from 1874 with a modern map.
+An overlay of a map of Atlanta from 1874 with a modern map. See the [interactive map on Github Pages](http://vergenzt.github.io/atlanta-in-1874).
 
 ## Resources Used
 
